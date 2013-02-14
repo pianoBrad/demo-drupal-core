@@ -1,0 +1,3 @@
+[submodule "sites/dev.drupalsites.com"]
+	path = sites/dev.drupalsites.com
+	url = https://github.com/pianoBrad/demo-drupal-site.git
